@@ -425,6 +425,10 @@ nav {
   background-color: #fefcfb;
 }
 
+#blog > div > h2 {
+  font-size: 3.5rem;
+}
+
 #blog > div {
   width: 80%;
   margin: auto;
